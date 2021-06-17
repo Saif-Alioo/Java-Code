@@ -24,4 +24,4 @@ public class LongestCommonPrefix {
         System.out.println(longestCommonPrifixs(strAr1));
     }
     
-}   <h1>Output::</h1>An
+}  // (Output::An)
