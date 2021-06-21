@@ -12,8 +12,10 @@ Insertion sort is a simple sorting algorithm that works similar to the way you s
 <h4>Algorithm </h4>
 To sort an array of size n in ascending order:<br> 
 1: Iterate from arr[1] to arr[n] over the array. <br>
-2: Compare the current element (key) to its predecessor<br>. 
+2: Compare the current element (key) to its predecessor.<br> 
 3: If the key element is smaller than its predecessor, compare it to the elements before. Move the greater elements one position up to make space for the swapped element.<br>
+TC=O(n) Best case.<br>
+TC=O(n^2) Average case.
 <hr>
 3:Count Sort  ::Date:15/06/2021<br>
 4:LongestCommonPrifix  ::Date:16/06/2021<br>
