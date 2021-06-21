@@ -9,11 +9,12 @@ TC=O(nlogn) in all cases.
 2:Insertation Sort ::Date:13/06/2021<br>
 <h3>Insertion Sort:</h3>
 Insertion sort is a simple sorting algorithm that works similar to the way you sort playing cards in your hands. The array is virtually split into a sorted and an unsorted part. Values from the unsorted part are picked and placed at the correct position in the sorted part.
-<h2>Algorithm </h2>
-To sort an array of size n in ascending order: 
-1: Iterate from arr[1] to arr[n] over the array. 
-2: Compare the current element (key) to its predecessor. 
-3: If the key element is smaller than its predecessor, compare it to the elements before. Move the greater elements one position up to make space for the swapped element.
+<h4>Algorithm </h4>
+To sort an array of size n in ascending order:<br> 
+1: Iterate from arr[1] to arr[n] over the array. <br>
+2: Compare the current element (key) to its predecessor<br>. 
+3: If the key element is smaller than its predecessor, compare it to the elements before. Move the greater elements one position up to make space for the swapped element.<br>
+<hr>
 3:Count Sort  ::Date:15/06/2021<br>
 4:LongestCommonPrifix  ::Date:16/06/2021<br>
 5:Evaluate Expression  ::Date:18/06/2021<br>
