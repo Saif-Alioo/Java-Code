@@ -18,6 +18,9 @@ TC=O(n) Best case.<br>
 TC=O(n^2) Average case.
 <hr>
 3:Count Sort  ::Date:15/06/2021<br>
+<h3>Count Sort</h3>
+Counting Sort Algorithm is an efficient sorting algorithm that can be used for sorting elements within a specific range. This sorting technique is based on the frequency/count of each element to be sorted.
+<hr>
 4:LongestCommonPrifix  ::Date:16/06/2021<br>
 5:Evaluate Expression  ::Date:18/06/2021<br>
 <hr>
