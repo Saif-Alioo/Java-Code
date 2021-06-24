@@ -15,14 +15,14 @@ public class ZeroSumSubarray {
      */
     public static void main(String[] args) {
         boolean found =false;
-        int []a ={1,3,4,5,6,6};
+        int []a ={1,-3,2,-5,6,6};
 //        int k=7;
 //int count=0;
         for(int i=0;i<a.length;i++){
             int sum=0;
             for(int j=i;j<a.length;j++){
                 sum +=a[j];                
-                if(sum==12){
+                if(sum==0){
                     found =true;
 //                    count++;
                    System.out.print("{");
