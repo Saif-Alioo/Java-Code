@@ -22,6 +22,9 @@ TC=O(n^2) Average case.
 Counting Sort Algorithm is an efficient sorting algorithm that can be used for sorting elements within a specific range. This sorting technique is based on the frequency/count of each element to be sorted.
 <hr>
 4:LongestCommonPrifix  ::Date:16/06/2021<br>
+<h3>LongestCommonPrifix:</h3>
+The longest common prefix for an array of strings is the common prefix between 2 most dissimilar strings. For example, in the given array {“apple”, “ape”, “zebra”}, there is no common prefix because the 2 most dissimilar strings of the array “ape” and “zebra” do not share any starting characters.
+<hr>
 5:Evaluate Expression  ::Date:18/06/2021<br>
 <hr>
 6:Anagram  ::19/06/2021<br>
