@@ -20,6 +20,10 @@ TC=O(n^2) Average case.
 3:Count Sort  ::Date:15/06/2021<br>
 <h3>Count Sort</h3>
 Counting Sort Algorithm is an efficient sorting algorithm that can be used for sorting elements within a specific range. This sorting technique is based on the frequency/count of each element to be sorted.
+Let's talk about time complexity
+<h4>Time Complexity:</h4>
+O(n+k) where n is the number of elements in input array and k is the range of input. 
+<h4>Auxiliary Space:</h4> O(n+k)
 <hr>
 4:LongestCommonPrifix  ::Date:16/06/2021<br>
 <h3>LongestCommonPrifix:</h3>
