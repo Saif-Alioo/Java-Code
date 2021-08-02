@@ -49,4 +49,5 @@ Return the leftmost pivot index. If no such index exists, return -1.
 <h3>What is Binary Search</h3>
 Search a sorted array by repeatedly dividing the search interval in half. Begin with an interval covering the whole array. If the value of the search key is less than the item in the middle of the interval, narrow the interval to the lower half. Otherwise, narrow it to the upper half. Repeatedly check until the value is found or the interval is empty.
 <h2>Time Complexity</h2>
+The time complexity of the binary search algorithm is <h3>O(log n). The best-case time complexity would be O(1) when the central index would directly match the desired value. The worst-case scenario could be the values at either extremity of the list or values not in the list.
 <hr>
