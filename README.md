@@ -53,5 +53,5 @@ The time complexity of the binary search algorithm is O(log n). The best-case ti
 <hr>
 10:Multiplying Number ::14-08-2021
 <h3>Multiplying Number</h3>
-There are three numbers multiply mid number and max number 
+There are three numbers multiply between mid number and max number.
 <hr>
